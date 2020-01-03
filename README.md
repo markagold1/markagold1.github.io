@@ -6,3 +6,8 @@ Mark's GitHub Repo
 * Convert between equivalent LFSR architectures
 * Calculate and apply masks to arbitrarily shift the starting position of the pseudorandom sequence
 * Fast algorithms for propagating the LFSR state forwards or backwards
+
+![Fibonacci](images/Fibonacci.png)
+![Galois](images/Galois.png)
+![MaskedFibonacci](images/MaskedFibonacci.png)
+![MaskedGalois](images/MaskedGalois.png)
